@@ -1,0 +1,148 @@
+
+h2.title_ {
+  clear: both;
+  font-size: 25px;
+  padding: 10px;
+}
+
+.padding10_ {
+  padding: 10px;
+}
+
+.bordert_ {
+  border-top: #ccc solid 1px;
+}
+
+.borderb_ {
+  border-bottom: #ccc solid 1px;
+}
+
+.overflow_ {
+  overflow: auto;
+}
+
+.floatright_ {
+  float: right;
+  font-size: 15px;
+}
+
+.sale_ {
+  color: red;
+}
+
+.typenavi_ {
+  clear: both;
+  margin: 0 0 10px;
+}
+
+.typenavi_ dd {
+  padding: 0 0 0 7px;
+  background: #333;
+}
+
+.typenavi_ dd * {
+  font-size: 12px;
+  padding: 5px;
+  display: inline-block;
+  color: #FFF;
+}
+
+.snap_ {
+  overflow: auto;
+}
+
+.snap_ .snapgoods_ li {
+  display: inline-block;
+  width: 30%;
+}
+
+.snap_ .snapgoods_ li:nth-child(2n) {
+  display: inline-block;
+  width: 30%;
+}
+
+.snap_ .snapgoods_ li:nth-child(3n) {
+  display: inline-block;
+  width: 30%;
+}
+
+.icon_ {
+  height: 26px;
+}
+
+.snap_ .snapgoods_ a {
+  padding: 0px 0px;
+  text-decoration: none;
+  display: block;
+}
+
+div.snszone {
+  overflow: auto;
+  border-top: #ccc solid 1px;
+  border-bottom: #ccc solid 1px;
+  padding: 8px 0 10px 0;
+  margin: 0 10px;
+  margin-bottom: 20px;
+}
+
+div.snszone ul {
+  float: right;
+  padding-right: 5px;
+}
+
+div.snszone ul li {
+  float: left;
+  margin-left: 9px;
+}
+
+div.snszone .snszone_ttl {
+  font-family: "Calibri", "小塚ｺﾞｼｯｸPr6N", "ヒラギノ角ゴ ProN W6", "Hiragino Kaku Gothic ProN", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  float: left;
+  font-size: 1.42857rem;
+  line-height: 1.1;
+  font-weight: normal;
+  color: #000;
+  padding-left: 10px;
+  padding: 10px 0 8px 10px;
+}
+
+div.snszone .line {
+  background: #00C300;
+  color: #fff;
+  border-radius: 30px;
+  padding: 10px;
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
+div.snszone .facebook{
+  background: #315096;
+  color: #fff;
+  border-radius: 30px;
+  padding: 10px;
+  width: 20px;
+  height: 20px;
+  display: block;
+  float: left;
+}
+
+div.snszone .twitter {
+  background: #55acee;
+  color: #fff;
+  border-radius: 30px;
+  padding: 10px;
+  width: 20px;
+  height: 20px;
+  display: block;
+  float: left;
+}
+
+
+
+div.snszone .fa {
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-size: 21px;
+}
