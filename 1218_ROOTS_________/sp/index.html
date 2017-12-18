@@ -1,0 +1,59 @@
+<div class="cts_wrap_ amvassador_" id="amvassador">
+            <div class="cts_ttl_">
+                <h2 class="cts_ttl_alt_ amvassador_title_image_"><img src="/assets/img/top/top_ttl_amvassador.png" alt="J.FERRY AMVASSADOR"></h2>
+            </div>
+            <div class="goods_top_">
+                <!-- SmartHash出力部分 -->
+                <div class="smarthash">
+                    <ul class="goods_top_p_ goods_list_wrapper_">
+                        <li class="goods_list_item sp_list"><a data-target="modal1" class="modal-open"><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25006718_260381947824349_5875715913210134528_n.jpg" class="instagram-image"></a></li>
+                        <li class="goods_list_item sp_list"><a data-target="modal2" class="modal-open"><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25006718_260381947824349_5875715913210134528_n.jpg" class="instagram-image"></a></li>
+                        <li class="goods_list_item sp_list"><a data-target="modal3" class="modal-open"><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25006718_260381947824349_5875715913210134528_n.jpg" class="instagram-image"></a></li>
+                        <li class="goods_list_item sp_list"><a data-target="modal4" class="modal-open"><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25006718_260381947824349_5875715913210134528_n.jpg" class="instagram-image"></a></li>
+                    </ul>
+                </div>
+
+                <!-- /SmartHash出力部分 -->
+            </div>
+            <div class="goods_top_more_"> <a href="javascript:void(0);" class="smarthash_more_btn">MORE</a> </div>
+            <script type="text/javascript" src="css/smarthash/jquery.easing.1.3.js"></script>
+            <script type="text/javascript" src="css/smarthash/jquery-1.10.2.min.js"></script>
+            <script type="text/javascript" src="css/smarthash/init.js"></script>
+            <script type="text/javascript" src="css/smarthash/common.js"></script>
+            <script type="text/javascript" src="js/modal.js"></script>
+            <!--<script>
+var json_url = 'https://asp.smartcontest.jp/hashtag/jferry/?c=json&turn=21';
+var key_num = 0;
+
+function getJson(jurl) {
+    jQuery.ajax({
+        url: jurl,
+        dataType: 'jsonp',
+        jsonpCallback: 'get_json',
+        type: "GET",
+        success: function(data) {
+            var insert = '';
+            for(var key in data) {
+                insert += '<li class="goods_list_item sp_list">';
+                insert += '<a href="' + data[key].url + '" target="_blank"><img src="' + data[key].thum_url + '" class="instagram-image" /></a>';
+                /*insert += '<p>' + data[key].username + '</p>';*/
+                insert += '</li>';
+                key_num ++;
+            };
+            jQuery('.smarthash ul').append(insert);
+            jQuery('.smarthash_zoom img, .smarthash img').error(function(){
+                jQuery(this).attr({src:"img/noimg.png"});
+            });
+        },error: function(data) {
+            console.log('error');
+        }
+    });
+};
+getJson(json_url);
+
+/* more */
+$('.smarthash_more_btn').click(function(){
+    getJson(json_url + '&sk=' + key_num);
+});
+</script>-->
+        </div>
