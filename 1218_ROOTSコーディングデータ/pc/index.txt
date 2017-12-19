@@ -1,0 +1,212 @@
+<div class="cts_wrap_ amvassador_" id="amvassador">
+                <div class="cts_ttl_">
+                    <h2 class="cts_ttl_alt_ amvassador_title_image_"> <img src="assets/img/top/top_ttl_amvassador_pc.png" alt="J.FERRY AMVASSADOR"> </h2>
+                </div>
+                <p class="hashtag">#jferry_ins</p>
+                <div class="goods_top_"> 
+                    
+                    <div class="smarthash">
+                        <ul class="goods_top_p_ goods_list_wrapper_">
+                            <li class="goods_list_item sp_list"><a data-target="modal1" class="modal-open"> <img src="./img/top/img01.jpg" class="instagram-image">
+                                <div class="mask">
+                                    <div class="maskInner">
+                                        <div class="imgArea"><img src="img/top/inst_icon01.jpg" alt="インスタアイコン"></div>
+                                        <p class="textArea">yun_wear<br>
+                                            おはようございます<br>
+                                            朝から顔面でごめんなさい<br>
+                                            ・<br>
+                                            ・<br>
+                                            @jferry.jp さんの袖ファーニット可愛くてお気に入りだから色違いもゲット<br>
+                                            また全身はあとで載せます</p>
+                                    </div>
+                                </div>
+                                </a> </li>
+                            <li class="goods_list_item sp_list"><a data-target="modal2" class="modal-open"><img src="./img/top/img02.jpg" class="instagram-image">
+                            <div class="mask">
+                                    <div class="maskInner">
+                                        <div class="imgArea"><img src="img/top/inst_icon01.jpg" alt="インスタアイコン"></div>
+                                        <p class="textArea">yun_wear<br>
+                                            おはようございます<br>
+                                            朝から顔面でごめんなさい<br>
+                                            ・<br>
+                                            ・<br>
+                                            @jferry.jp さんの袖ファーニット可愛くてお気に入りだから色違いもゲット<br>
+                                            また全身はあとで載せます</p>
+                                    </div>
+                                </div></a></li>
+                            <li class="goods_list_item sp_list"><a data-target="modal3" class="modal-open"><img src="./img/top/img03.jpg" class="instagram-image">
+                            <div class="mask">
+                                    <div class="maskInner">
+                                        <div class="imgArea"><img src="img/top/inst_icon01.jpg" alt="インスタアイコン"></div>
+                                        <p class="textArea">yun_wear<br>
+                                            おはようございます<br>
+                                            朝から顔面でごめんなさい<br>
+                                            ・<br>
+                                            ・<br>
+                                            @jferry.jp さんの袖ファーニット可愛くてお気に入りだから色違いもゲット<br>
+                                            また全身はあとで載せます</p>
+                                    </div>
+                                </div></a></li>
+                            <li class="goods_list_item sp_list"><a data-target="modal4" class="modal-open"><img src="./img/top/img01.jpg" class="instagram-image">
+                            <div class="mask">
+                                    <div class="maskInner">
+                                        <div class="imgArea"><img src="img/top/inst_icon01.jpg" alt="インスタアイコン"></div>
+                                        <p class="textArea">yun_wear<br>
+                                            おはようございます<br>
+                                            朝から顔面でごめんなさい<br>
+                                            ・<br>
+                                            ・<br>
+                                            @jferry.jp さんの袖ファーニット可愛くてお気に入りだから色違いもゲット<br>
+                                            また全身はあとで載せます</p>
+                                    </div>
+                                </div></a></li>
+                            <li class="goods_list_item sp_list"><a data-target="modal5" class="modal-open"><img src="./img/top/img02.jpg" class="instagram-image">
+                            <div class="mask">
+                                    <div class="maskInner">
+                                        <div class="imgArea"><img src="img/top/inst_icon01.jpg" alt="インスタアイコン"></div>
+                                        <p class="textArea">yun_wear<br>
+                                            おはようございます<br>
+                                            朝から顔面でごめんなさい<br>
+                                            ・<br>
+                                            ・<br>
+                                            @jferry.jp さんの袖ファーニット可愛くてお気に入りだから色違いもゲット<br>
+                                            また全身はあとで載せます</p>
+                                    </div>
+                                </div></a></li>
+                            <li class="goods_list_item sp_list"><a data-target="modal6" class="modal-open"><img src="./img/top/img03.jpg" class="instagram-image">
+                            <div class="mask">
+                                    <div class="maskInner">
+                                        <div class="imgArea"><img src="img/top/inst_icon01.jpg" alt="インスタアイコン"></div>
+                                        <p class="textArea">yun_wear<br>
+                                            おはようございます<br>
+                                            朝から顔面でごめんなさい<br>
+                                            ・<br>
+                                            ・<br>
+                                            @jferry.jp さんの袖ファーニット可愛くてお気に入りだから色違いもゲット<br>
+                                            また全身はあとで載せます</p>
+                                    </div>
+                                </div></a></li>
+                        </ul>
+                    </div>
+
+<!--Modal contents-->
+<div id="modal1" class="modal-content">
+	<div class="imgArea"><img src="img/top/pop_img01.jpg" alt="insta-img"></div>
+	<div class="textArea">
+		<div class="instaIcon">
+		<a href="#">
+			<div class="instaIconImg"><img src="img/top/inst_icon01.jpg" class="insta-icon"></div>
+			<p>yun_wear</p>
+		</a>
+		</div>
+		<div class="itemAera">
+			<p class="useItem"><span>使用アイテム</span></p>
+			<div class="itemDtails">
+			    <div class="itemWrap">
+				<div class="itemImg"><img src="img/top/pop_img02.jpg" alt="item-img"></div>
+				<div class="itemText">
+					<p class="name">J.FERRY WOMEN<br>ボトルネックケーブルプルオーバー</p>
+					<p class="priceText">\4,309</p>
+				</div>
+				</div>
+				<div class="btnArea">
+					<a href="#" class="detaiBtn">商品の詳細を見る</a>
+					<a href="#" class="collectionBtn">コレクションを見る</a>
+				</div>
+				<p class="instaText">
+					yun_wear<br>
+                    おはようございます<br>
+                    朝から顔面でごめんなさい<br>
+                    ・<br>
+                    ・<br>
+                    @jferry.jp さんの袖ファーニット可愛くてお気に入りだから色違いもゲット<br>
+                    また全身はあとで載せます
+				</p>
+			</div>
+		</div>
+	</div>
+ <a class="modal-close">×</a>
+</div>
+<!--Modal contents-->
+<div id="modal2" class="modal-content">（略）</div>
+<div id="modal3" class="modal-content">（略）</div>
+<div id="modal4" class="modal-content">（略）</div>
+<div id="modal5" class="modal-content">（略）</div>
+<div id="modal6" class="modal-content">（略）</div>
+<!--Modal contents-->
+                </div>
+                <div class="goods_top_more_"> <a href="javascript:void(0);" class="smarthash_more_btn">MORE</a> </div>
+                <script type="text/javascript" src="css/smarthash/jquery.easing.1.3.js"></script> 
+                <script type="text/javascript" src="css/smarthash/jquery-1.10.2.min.js"></script> 
+                <script type="text/javascript" src="css/smarthash/init.js"></script> 
+                <script type="text/javascript" src="css/smarthash/common.js"></script> 
+				<script type="text/javascript" src="js/modal.js"></script>
+                <!--<script>
+
+var json_url = 'https://asp.smartcontest.jp/hashtag/jferry/?c=json&turn=20';
+var key_num = 0;
+function getJson(jurl) {
+    jQuery.ajax({
+
+        url: jurl,
+
+        dataType: 'jsonp',
+
+        jsonpCallback: 'get_json',
+
+        type: "GET",
+
+        success: function(data) {
+
+            var insert = '';
+
+            for (var key in data) {
+
+                insert += '<li class="goods_list_item sp_list">';
+
+                insert += '<a href="' + data[key].url + '" ><img src="' + data[key].thum_url + '" class="instagram-image" /></a>';
+
+                /*insert += '<p>' + data[key].username + '</p>';*/
+
+                insert += '</li>';
+
+                key_num ++;
+
+            };
+
+            jQuery('.smarthash ul').append(insert);
+
+            jQuery('.smarthash_zoom img, .smarthash img').error(function(){
+
+                jQuery(this).attr({src:"img/noimg.png"});
+
+            });
+
+        },
+
+        error: function(data) {
+
+            console.log('error');
+
+        }
+
+    });
+
+};
+
+
+
+getJson(json_url);
+
+
+
+/* more */
+
+jQuery('.smarthash_more_btn').click(function(){
+
+    getJson(json_url + '&sk=' + key_num);
+
+});
+
+</script>--> 
+            </div>
